@@ -1,6 +1,9 @@
 '''
-Title: Random Password Generator
-Description: Create a program that generates a random password of a specified length.
+Title:
+Random Password Generator
+
+Description:
+Create a program that generates a random password of a specified length.
 
 Details:
 - The program should prompt the user to enter the desired length of the password.
